@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mwaza
 - 👀 I’m interested in mobile developement and Machine Learning
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Google map
 - 📫 How to reach me ericmwaza@gmail.com
 
 <!---
